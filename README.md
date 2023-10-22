@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Orifeson
+- 👋 Hi, I’m Obinna Michael
 - 👀 I’m interested in Cyber security and software development
-- 🌱 I’m currently learning Blockchain technology
+- 🌱 I’m a Blockchain Professional
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
